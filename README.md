@@ -21,6 +21,8 @@ The project requires the following libraries:
 - scikit-surprise
 - Flask
 
+## Dataset: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+
 ## Process Overview
 
 ### 1. Library Imports and Configuration
