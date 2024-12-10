@@ -23,6 +23,8 @@ The project requires the following libraries:
 
 ## Dataset: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 
+## Model: https://georgiancollege-my.sharepoint.com/:u:/g/personal/200565523_student_georgianc_on_ca/EULHnXqfQrBFqmzLv5rHYKwB8eJDZDDx53aaQ1l86j09Og?e=Kc9rsf
+
 ## Process Overview
 
 ### 1. Library Imports and Configuration
